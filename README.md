@@ -1,5 +1,5 @@
 # PE49
-Files associated to video PE#49: Impedance-based Analysis of EMI Filter and DC-DC Converter Interaction
+Files associated to video Power Electronics #49: Impedance-based Analysis of EMI Filter and DC-DC Converter Interaction
 
 Available at: https://youtu.be/oRphYd8tjzY
 
